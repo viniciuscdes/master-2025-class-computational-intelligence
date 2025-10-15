@@ -12,7 +12,7 @@
 > 
 
 
-## Record classes 
+## Recorded classes
 
 - 10/09 - https://drive.google.com/file/d/1-vQfIjOsAGIPIezBdEvx7nDU4H1fY7FI/view
 - 10/16 -
