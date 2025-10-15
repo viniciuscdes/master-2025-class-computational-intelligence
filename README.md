@@ -5,11 +5,19 @@
 > https://meet.google.com/erz-nznm-bhm
 > 
 
+
 ## Class main doc
 
 > https://docs.google.com/document/d/1m3zo_NPwtb8l_4ELFmLMkKTGLj-JjJTjlg4ikiG5FPk/edit?tab=t.0
 > 
 
+
+## Record classes 
+
+- 10/09 - https://drive.google.com/file/d/1-vQfIjOsAGIPIezBdEvx7nDU4H1fY7FI/view
+- 10/16 -
+
+  
 ## Datasets and models
 
 Here, you'll find a list of open-source datasets and models.
