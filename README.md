@@ -16,6 +16,7 @@
 
 - 10/09 - https://drive.google.com/file/d/1-vQfIjOsAGIPIezBdEvx7nDU4H1fY7FI/view
 - 10/16 - https://drive.google.com/file/d/12Qxh3IK_3YW23N86r2Ur1-d4huUhn6x0/view
+  - [Slide Aula 2](https://github.com/viniciuscdes/master-2025-class-computational-intelligence/blob/main/Large%20Language%20Models%20(LLMs)%20%201.pdf)
 
   
 ## Datasets and models
