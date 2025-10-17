@@ -15,7 +15,7 @@
 ## Recorded classes
 
 - 10/09 - https://drive.google.com/file/d/1-vQfIjOsAGIPIezBdEvx7nDU4H1fY7FI/view
-- 10/16 -
+- 10/16 - https://drive.google.com/file/d/12Qxh3IK_3YW23N86r2Ur1-d4huUhn6x0/view
 
   
 ## Datasets and models
